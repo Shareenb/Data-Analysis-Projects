@@ -1,3 +1,0 @@
-This project involves a comprehensive analysis of COVID-19 data, focusing on trends, patterns, and the impact of the pandemic across various regions.
-Using data science techniques, I explored infection rates, mortality rates, recovery trends, and vaccination progress. The analysis is conducted using Python, leveraging libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization. The goal is to provide insights into the pandemic's progression and to support data-driven decision-making.
-
